@@ -8,16 +8,16 @@
 
 ### 1. Week
 <ul>
-  <li><a href="https://github.com/icanerdogan/Imperial-College-Advanced-Android-Specialization/blob/master/app/src/main/java/com/ibrahimcanerdogan/imperialcollegeadvancedandroidspecialization/week1/BasicCanvasView.kt">Canvas View</a></li>
-  <li><a href="https://github.com/icanerdogan/Imperial-College-Advanced-Android-Specialization/blob/master/app/src/main/java/com/ibrahimcanerdogan/imperialcollegeadvancedandroidspecialization/week1/BasicPolylineView.kt">Polyline View</a></li>
-  <li><a href="https://github.com/icanerdogan/Imperial-College-Advanced-Android-Specialization/blob/master/app/src/main/java/com/ibrahimcanerdogan/imperialcollegeadvancedandroidspecialization/week1/BasicPolygonView.kt">Polygon View</a></li>
-  <li><a href="https://github.com/icanerdogan/Imperial-College-Advanced-Android-Specialization/blob/master/app/src/main/java/com/ibrahimcanerdogan/imperialcollegeadvancedandroidspecialization/week1/BasicGradientlView.kt">Gradient View</a></li>
-  <li><a href="https://github.com/icanerdogan/Imperial-College-Advanced-Android-Specialization/blob/master/app/src/main/java/com/ibrahimcanerdogan/imperialcollegeadvancedandroidspecialization/week1/BasicAffineTransformation.kt">Affiene Transformation</a></li>
-  <li><a href="https://github.com/icanerdogan/Imperial-College-Advanced-Android-Specialization/blob/master/app/src/main/java/com/ibrahimcanerdogan/imperialcollegeadvancedandroidspecialization/week1/LineGraphExample.kt">Line Graph (e.g. EKG)</a></li>
+  <li><a href="app/src/main/java/com/ibrahimcanerdogan/imperialcollegeadvancedandroidspecialization/introduction/week1/BasicCanvasView.kt">Canvas View</a></li>
+  <li><a href="app/src/main/java/com/ibrahimcanerdogan/imperialcollegeadvancedandroidspecialization/introduction/week1/BasicPolylineView.kt">Polyline View</a></li>
+  <li><a href="app/src/main/java/com/ibrahimcanerdogan/imperialcollegeadvancedandroidspecialization/introduction/week1/BasicPolygonView.kt">Polygon View</a></li>
+  <li><a href="app/src/main/java/com/ibrahimcanerdogan/imperialcollegeadvancedandroidspecialization/introduction/week1/BasicGradientlView.kt">Gradient View</a></li>
+  <li><a href="app/src/main/java/com/ibrahimcanerdogan/imperialcollegeadvancedandroidspecialization/introduction/week1/BasicAffineTransformation.kt">Affiene Transformation</a></li>
+  <li><a href="app/src/main/java/com/ibrahimcanerdogan/imperialcollegeadvancedandroidspecialization/introduction/week1/LineGraphExample.kt">Line Graph (e.g. EKG)</a></li>
 </ul>
 
 <ul>
-  <li><a href="https://github.com/icanerdogan/Imperial-College-Advanced-Android-Specialization/blob/master/app/src/main/java/com/ibrahimcanerdogan/imperialcollegeadvancedandroidspecialization/week1/CanvasDrawingFunctions.md">Canvas Drawing Functions</a></li>
+  <li><a href="app/src/main/java/com/ibrahimcanerdogan/imperialcollegeadvancedandroidspecialization/introduction/week1/CanvasDrawingFunctions.md">Canvas Drawing Functions</a></li>
 </ul>
 
 ### 2. Week
