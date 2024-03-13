@@ -8,12 +8,12 @@
 
 ### 1. Week
 <ul>
-  <li><a href="app/src/main/java/com/ibrahimcanerdogan/imperialcollegeadvancedandroidspecialization/introduction/week1/BasicCanvasView.kt">Canvas View</a></li>
-  <li><a href="app/src/main/java/com/ibrahimcanerdogan/imperialcollegeadvancedandroidspecialization/introduction/week1/BasicPolylineView.kt">Polyline View</a></li>
-  <li><a href="app/src/main/java/com/ibrahimcanerdogan/imperialcollegeadvancedandroidspecialization/introduction/week1/BasicPolygonView.kt">Polygon View</a></li>
-  <li><a href="app/src/main/java/com/ibrahimcanerdogan/imperialcollegeadvancedandroidspecialization/introduction/week1/BasicGradientlView.kt">Gradient View</a></li>
-  <li><a href="app/src/main/java/com/ibrahimcanerdogan/imperialcollegeadvancedandroidspecialization/introduction/week1/BasicAffineTransformation.kt">Affiene Transformation</a></li>
-  <li><a href="app/src/main/java/com/ibrahimcanerdogan/imperialcollegeadvancedandroidspecialization/introduction/week1/LineGraphExample.kt">Line Graph (e.g. EKG)</a></li>
+  <li><a href="app/src/main/java/com/ibrahimcanerdogan/imperialcollegeadvancedandroidspecialization/android1graphichs/week1/BasicCanvasView.kt">Canvas View</a></li>
+  <li><a href="app/src/main/java/com/ibrahimcanerdogan/imperialcollegeadvancedandroidspecialization/android1graphichs/week1/BasicPolylineView.kt">Polyline View</a></li>
+  <li><a href="app/src/main/java/com/ibrahimcanerdogan/imperialcollegeadvancedandroidspecialization/android1graphichs/week1/BasicPolygonView.kt">Polygon View</a></li>
+  <li><a href="app/src/main/java/com/ibrahimcanerdogan/imperialcollegeadvancedandroidspecialization/android1graphichs/week1/BasicGradientlView.kt">Gradient View</a></li>
+  <li><a href="app/src/main/java/com/ibrahimcanerdogan/imperialcollegeadvancedandroidspecialization/android1graphichs/week1/BasicAffineTransformation.kt">Affiene Transformation</a></li>
+  <li><a href="app/src/main/java/com/ibrahimcanerdogan/imperialcollegeadvancedandroidspecialization/android1graphichs/week1/LineGraphExample.kt">Line Graph (e.g. EKG)</a></li>
 </ul>
 
 <ul>
@@ -22,10 +22,26 @@
 
 ### 2. Week
 <ul>
-  <li>Coming Soon..</li>
+  <li><a href="app/src/main/java/com/ibrahimcanerdogan/imperialcollegeadvancedandroidspecialization/android1graphichs/week2/affinetransformation/Coordinate.kt">Coordinate</a></li>
+  <li><a href="app/src/main/java/com/ibrahimcanerdogan/imperialcollegeadvancedandroidspecialization/android1graphichs/week2/affinetransformation/MainActivity.kt">Main Activity</a></li>
+  <li><a href="app/src/main/java/com/ibrahimcanerdogan/imperialcollegeadvancedandroidspecialization/android1graphichs/week2/affinetransformation/MyView.kt">My View</a></li>
+</ul>
+
+<ul>
+  <li><a href="app/src/main/java/com/ibrahimcanerdogan/imperialcollegeadvancedandroidspecialization/android1graphichs/week2/gimballock/Gimbal Lock.kt">Gimbal Lock</a></li>
+</ul>
+
+<ul>
+  <li><a href="app/src/main/java/com/ibrahimcanerdogan/imperialcollegeadvancedandroidspecialization/android1graphichs/week2/quaternion/Quaternion.kt">Quaternion</a></li>
 </ul>
 
 ### 3. Week
 <ul>
-  <li>Coming Soon..</li>
+    <li><a href="app/src/main/java/com/ibrahimcanerdogan/imperialcollegeadvancedandroidspecialization/android1graphichs/week3/DancingRobot3D.md">Peer-graded Assignment: 3D Dancing Robot</a></li>
+  <li><a href="[app/src/main/java/com/ibrahimcanerdogan/imperialcollegeadvancedandroidspecialization/android1graphichs/week3/BasicPolylineView.kt](https://github.com/icanerdogan/Imperial-College-Advanced-Android-Specialization/raw/master/app/src/main/java/com/ibrahimcanerdogan/imperialcollegeadvancedandroidspecialization/android1graphichs/week3/DancingRobot3D.apk)https://github.com/icanerdogan/Imperial-College-Advanced-Android-Specialization/raw/master/app/src/main/java/com/ibrahimcanerdogan/imperialcollegeadvancedandroidspecialization/android1graphichs/week3/DancingRobot3D.apk">3D Dancing Robot APK Download!</a></li>
 </ul>
+
+## Android Graphics with OpenGL ES
+
+Coming Soon...
+
