@@ -1,4 +1,4 @@
-package com.ibrahimcanerdogan.imperialcollegeadvancedandroidspecialization.introduction.week1
+package com.ibrahimcanerdogan.imperialcollegeadvancedandroidspecialization.android1graphichs.week1
 
 import android.content.Context
 import android.graphics.Canvas
@@ -7,7 +7,6 @@ import android.graphics.Paint
 import android.graphics.Path
 import android.graphics.Point
 import android.view.View
-import androidx.core.graphics.scaleMatrix
 
 class LineGraphExample(context: Context): View(context) {
 

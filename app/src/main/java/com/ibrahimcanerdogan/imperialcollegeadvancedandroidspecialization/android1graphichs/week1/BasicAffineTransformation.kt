@@ -1,10 +1,9 @@
-package com.ibrahimcanerdogan.imperialcollegeadvancedandroidspecialization.introduction.week1
+package com.ibrahimcanerdogan.imperialcollegeadvancedandroidspecialization.android1graphichs.week1
 
 import android.content.Context
 import android.graphics.Canvas
 import android.graphics.Color
 import android.graphics.LinearGradient
-import android.graphics.Matrix
 import android.graphics.Paint
 import android.graphics.Path
 import android.graphics.Point

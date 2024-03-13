@@ -1,4 +1,4 @@
-package com.ibrahimcanerdogan.imperialcollegeadvancedandroidspecialization.introduction.week1
+package com.ibrahimcanerdogan.imperialcollegeadvancedandroidspecialization.android1graphichs.week1
 
 import android.content.Context
 import android.graphics.Canvas
