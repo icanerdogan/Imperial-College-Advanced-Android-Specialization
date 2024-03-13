@@ -37,8 +37,8 @@
 
 ### 3. Week
 <ul>
-    <li><a href="app/src/main/java/com/ibrahimcanerdogan/imperialcollegeadvancedandroidspecialization/android1graphichs/week3/DancingRobot3D.md">Peer-graded Assignment: 3D Dancing Robot</a></li>
-  <li><a href="[app/src/main/java/com/ibrahimcanerdogan/imperialcollegeadvancedandroidspecialization/android1graphichs/week3/BasicPolylineView.kt](https://github.com/icanerdogan/Imperial-College-Advanced-Android-Specialization/raw/master/app/src/main/java/com/ibrahimcanerdogan/imperialcollegeadvancedandroidspecialization/android1graphichs/week3/DancingRobot3D.apk)https://github.com/icanerdogan/Imperial-College-Advanced-Android-Specialization/raw/master/app/src/main/java/com/ibrahimcanerdogan/imperialcollegeadvancedandroidspecialization/android1graphichs/week3/DancingRobot3D.apk">3D Dancing Robot APK Download!</a></li>
+  <li><a href="app/src/main/java/com/ibrahimcanerdogan/imperialcollegeadvancedandroidspecialization/android1graphichs/week3/DancingRobot3D.md">Peer-graded Assignment: 3D Dancing Robot</a></li>
+  <li><a href="https://github.com/icanerdogan/Imperial-College-Advanced-Android-Specialization/raw/master/app/src/main/java/com/ibrahimcanerdogan/imperialcollegeadvancedandroidspecialization/android1graphichs/week3/DancingRobot3D.apk">3D Dancing Robot APK Download!</a></li>
 </ul>
 
 ## Android Graphics with OpenGL ES
